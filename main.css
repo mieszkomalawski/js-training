@@ -1,0 +1,19 @@
+ .column {
+            width: 200px;
+            float: left;
+            border: 1px black solid;
+            height: 1000px;
+        }
+    
+#add-item {
+    width: 50px;
+    height: 50px;
+    float: right;
+}
+
+.column .item {
+    height: 100px;
+    width: 96%;
+    border: 1px black solid;
+    padding: 2%;
+}
